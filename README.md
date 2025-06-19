@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Task Manager App ✅
 
-## Getting Started
+Um sistema completo de gerenciamento de tarefas!  
+Desenvolvi esse projeto como desafio pessoal para treinar minhas habilidades em desenvolvimento web, tanto no frontend quanto no backend.  
 
-First, run the development server:
+## 🚀 Funcionalidades
+- ✅ Cadastro e Login de usuários (autenticação com JWT)
+- ✅ CRUD de tarefas (criar, listar, editar, excluir)
+- ✅ Concluir tarefa
+- ✅ Ver apenas suas próprias tarefas
+- ✅ Sistema de comentários em cada tarefa
+- ✅ Upload e troca de foto de perfil
+- ✅ Aba de configurações do usuário
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tecnologias usadas
+### Frontend
+- React + TypeScript
+- Next.js
+- TailwindCSS
+- Axios
+- Vercel (deploy)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Backend
+- PHP (API REST)
+- MySQL (banco de dados)
+- JWT (autenticação)
+- Hospedado em servidor VPS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🖥️ Deploy
+- Frontend hospedado na Vercel  
+- Backend hospedado em servidor privado (VPS)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 💡 Aprendizados
+Esse projeto me proporcionou muito aprendizado prático, principalmente em:
+- Organização de pastas e componentes no frontend
+- Criação e consumo de APIs
+- Autenticação segura com JWT
+- Gerenciamento de estados
+- Integração completa entre frontend e backend
+- Deploy de aplicações em produção
 
-## Learn More
+## 📸 Prints do sistema
+*(Adicione aqui prints do sistema rodando — dashboard, login, comentários, etc.)*
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Link do projeto
+🔗 https://task-manager-app-pi-lemon.vercel.app/login
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+Desenvolvido por **Lucas Dias Leandro** 😎  
